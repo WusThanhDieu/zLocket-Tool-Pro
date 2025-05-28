@@ -3,7 +3,7 @@
 # coding: utf-8
 # Telegram: @wus_team
 # Version: 1.0.6 (Fixed)
-# Github: https://github.com/wusthanhdieu
+# Github: https:
 # Description: zLocket Tool Open Source
 # ==================================
 import sys
