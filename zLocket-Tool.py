@@ -4,7 +4,7 @@
 # Telegram: @wus_team
 # Version: 1.0.6 (Fixed)
 # Github: https://github.com/wusthanhdieu
-# Description: zLocket Tool Open Source
+# Description: zLocket Tool Open Sourc
 # ==================================
 import sys
 import subprocess
