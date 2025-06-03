@@ -4,7 +4,7 @@
 # Telegram: @wus_team
 # Version: 1.0.7
 # Github: https://github.com/wusthanhdieu
-# Description: zLocket Tool Open Source
+# Description: zLocket Tool Open Sourc
 # ==================================
 import sys
 import platform
